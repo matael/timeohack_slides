@@ -1,0 +1,26 @@
+@font-face {
+	font-family: "Andika";
+	src: url("media/Andika-R.ttf");
+}
+
+body {
+	color: #6b3f00;
+	background-color: #e6cdab;
+	font-size: 1.2em;
+	font-family: Andika, Arial, sans-serif;
+}
+
+h1 { 
+	font-size: 2em;
+}
+
+h2 {
+	font-size: .9em;
+}
+
+a {
+	display: block;
+	text-align: center;
+	text-decoration: None;
+	color: #6b3f00
+}
